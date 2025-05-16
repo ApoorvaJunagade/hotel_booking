@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #c0d5ea, #b5b1e7); /* Gradient colors */
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Optional font styling */
+  }
+  
+  .container {
+    background:transparent; /* Slightly transparent white */
+    padding: 20px;
+    
+    /* border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); Optional shadow */
+  }
+  
+  .btn{
+    display:flex;
+    justify-content: center;
+  }
+  
